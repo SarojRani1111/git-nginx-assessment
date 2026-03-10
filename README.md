@@ -21,3 +21,13 @@ output
 user.name=Saroj Rani
 user.email=techiesaroj14@gmail.com
 ![Git Log](screenshot_images/Task1b_01.png)
+
+
+Task2a,2b
+Created new branch with name feature/add-calculator
+by using command:
+git checkout -b feature/add-calculator
+
+![All files list after creating new file under feature/calculator branch](Task2b_image-png)
+
+Added calculator module with add and sub function
