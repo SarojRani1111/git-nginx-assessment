@@ -20,4 +20,4 @@ git config --global --list
 output
 user.name=Saroj Rani
 user.email=techiesaroj14@gmail.com
-
+![Git Log](screenshot_images/Task1b_01.png)
