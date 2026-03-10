@@ -21,3 +21,4 @@ output
 user.name=Saroj Rani
 user.email=techiesaroj14@gmail.com
 ![Git Log](screenshot_images/Task1b_01.png)
+Added calculator module with add() and sub()
